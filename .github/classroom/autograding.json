@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Testes de Configurações",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "python3 manage.py test tutorial.tests.test_settings",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Testes de Views",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "python3 manage.py test tutorial.tests.test_views",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Testes de Modelos",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "python3 manage.py test tutorial.tests.test_models",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Testes de Testes",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "python3 manage.py test tutorial.tests.test_tests",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Testes de Admin",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "python3 manage.py test tutorial.tests.test_admin",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
