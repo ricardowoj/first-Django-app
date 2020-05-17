@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
     "nome": "Ricardo Wojciechowski",
     "email": "ricardo.wojciechowski@aluno.faculdadeimpacta.com.br",
     "ra": "1901784"
+=======
+{
+    "nome": "Ricardo Wojciechowski",
+    "email": "ricardo.wojciechowski@aluno.faculdadeimpacta.com.br",
+    "ra": "1901784"
+>>>>>>> b0147d0ca48d981e407db1c1499089f65eeea2b6
 }
